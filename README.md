@@ -66,7 +66,7 @@ This project is licensed under the MIT License.
 
 ---
 
-### Short GitHub Description
+### Short Description of Movie App
 ```
 🎬 Movie API and Frontend UI built with Node.js, Express, and React.js. Fetch, display, search, and manage movies seamlessly!
 ```
