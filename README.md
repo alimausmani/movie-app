@@ -18,7 +18,7 @@ This project consists of a **Movie API** built using **Node.js + Express** and a
 ### Backend Setup
 1. Navigate to the backend folder:
    ```sh
-   cd backend
+   cd rest-api
    ```
 2. Install dependencies:
    ```sh
@@ -32,7 +32,7 @@ This project consists of a **Movie API** built using **Node.js + Express** and a
 ### Frontend Setup
 1. Navigate to the frontend folder:
    ```sh
-   cd frontend
+   cd movie-app
    ```
 2. Install dependencies:
    ```sh
