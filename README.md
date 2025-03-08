@@ -58,7 +58,7 @@ This project consists of a **Movie API** built using **Node.js + Express** and a
 
 ## Screenshots
 
-![Movie UI](public/screenshots/movie-ui.png)
+![Movie UI](src/assets/movie-ui.png)
 
 
 ## License
